@@ -6,7 +6,7 @@
 ### <div align="center">I'm Juned Khan, a passionate full-time frontend engineer 👨‍💻 </div>  
   
 
-- ⚡ Fun fact: I never close browser tab  
+- ⚡ Fun fact: I never close browser tabs 
   
 
 <br/>  
